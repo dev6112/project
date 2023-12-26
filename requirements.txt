@@ -1,4 +1,4 @@
 Flask
 Gunicorn
-numpy==1.21.0
+numpy==1.21.0; python_version<'3.8'
 sklearn==0.0
