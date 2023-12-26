@@ -1,2 +1,3 @@
 Flask
 Gunicorn
+numpy==66.88.00
