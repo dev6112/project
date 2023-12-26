@@ -1,4 +1,2 @@
 Flask
 Gunicorn
-numpy==1.17.1
-sklearn==0.0
